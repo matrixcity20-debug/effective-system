@@ -1,1 +1,1 @@
--stnotepad.exe
+-stcmd.exe
