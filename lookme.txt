@@ -1,1 +1,1 @@
--ddhttps://raw.githubusercontent.com/matrixcity20-debug/effective-system/refs/heads/main/shell32_166.ico
+-stnotepad.exe
